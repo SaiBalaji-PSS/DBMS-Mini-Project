@@ -15,7 +15,7 @@ Online bus ticket booking system using C#,XAMPP server and MySQL
 
 ![sd](https://user-images.githubusercontent.com/51410810/68086532-25c6f200-fe73-11e9-8814-58aebf6f1fbf.JPG)
 ![Capturedf](https://user-images.githubusercontent.com/51410810/68086536-29f30f80-fe73-11e9-872f-46c5271478a1.JPG)
-![dfg](https://user-images.githubusercontent.com/51410810/68086539-30818700-fe73-11e9-986f-6414dc16093c.JPG)
+
 
 
 
